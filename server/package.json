@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "json-server --watch db.json -p 9000"
+    "postinstall": "npm run build",
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
