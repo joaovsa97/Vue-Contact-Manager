@@ -1,4 +1,7 @@
-# app_teste
+# Contact Manager
+
+## Project Description
+This project was developed to study the basics of the Vue.js 3 framework, using Bootstrap 5 to assemble the front-end and json-server to store the inserted data locally. 
 
 ## Project setup
 ```
